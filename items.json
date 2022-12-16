@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"name": "AOC Gaming Monitor",
+		"category": "Monitor",
+		"priceCents": 46000,
+		"src": "https://cdn3.centrecom.com.au/images/upload/0083963_thumb.jpeg"
+	},
+	{
+		"id": 2,
+		"name": "AMD Ryzen 9 5900X",
+		"category": "CPU",
+		"priceCents": 72000,
+		"src": "https://cdn3.centrecom.com.au/images/upload/0133695_thumb.jpeg"
+	},
+	{
+		"id": 3,
+		"name": "H510i Limited Edition - Yellow",
+		"category": "Case",
+		"priceCents": 25000,
+		"src": "https://cdn2.centrecom.com.au/images/upload/0127334_0.jpeg"
+	},
+	{
+		"id": 4,
+		"name": "H510i Limited Edition - Blue",
+		"category": "Case",
+		"priceCents": 25000,
+		"src": "https://cdn3.centrecom.com.au/images/upload/0121519_0.jpeg"
+	},
+	{
+		"id": 5,
+		"name": "Seagates Barracuda 8TB",
+		"category": "HDD",
+		"priceCents": 66000,
+		"src": "https://cdn0.centrecom.com.au/images/upload/0088780_thumb.jpeg"
+	},
+	{
+		"id": 6,
+		"name": "WD Red Plus 4TB",
+		"category": "HDD",
+		"priceCents": 21000,
+		"src": "https://cdn1.centrecom.com.au/images/upload/0096389_thumb.jpeg"
+	}
+]
